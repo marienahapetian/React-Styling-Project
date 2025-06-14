@@ -5,7 +5,7 @@ export default function App() {
   return (
     <>
       <Header />
-      <main>
+      <main className='pb-30'>
         <AuthInputs />
       </main>
     </>
